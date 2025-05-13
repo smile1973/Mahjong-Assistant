@@ -177,7 +177,6 @@ mitmdump -s main.py
 - **mitmproxy**: 作為中間人代理攔截 WebSocket 通訊
 - **Selenium**: 自動化瀏覽天鳳網站進行牌型分析
 - **Protocol Buffers**: 解析雀魂的遊戲協議
-- **天鳳牌理分析器**: 使用 tenhou.net 的 API 分析牌型
 
 ## 授權
 本專案僅供個人學習使用，請遵守相關服務條款。
