@@ -111,7 +111,6 @@ mitmdump -s main.py
 
 3. 開啟雀魂網站：
    - 國際版：https://mahjongsoul.com/
-   - 日服：https://game.mahjongsoul.com/
 
 4. 登入並進入遊戲
 
